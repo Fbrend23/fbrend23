@@ -43,11 +43,10 @@ Inclut : navigation fluide, mode plein écran, lazy loading et optimisation WebP
 
 ---
 
-### 📸 Portfolio photos
-Site vitrine minimaliste pour exposer mes photos animalières et de nature.  
-Inclut : navigation fluide, mode plein écran, lazy loading et optimisation WebP.
+#### 🖥️ Portfolio informatique
+Présentation de mes projets, expériences, et parcours en développement.
 
-🔗 [Site photos](https://photographie.brendanfleurdelys.ch)
+➡️ [brendanfleurdelys.ch](https://brendanfleurdelys.ch)
 
 ---
 
