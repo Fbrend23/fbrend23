@@ -43,7 +43,7 @@ Inclut : navigation fluide, mode plein écran, lazy loading et optimisation WebP
 
 ---
 
-#### 🖥️ Portfolio informatique
+### 🖥️ Portfolio informatique
 Présentation de mes projets, expériences, et parcours en développement.
 
 ➡️ [brendanfleurdelys.ch](https://brendanfleurdelys.ch)
