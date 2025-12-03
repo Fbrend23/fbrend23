@@ -29,7 +29,7 @@
 ## 📌 Projets
 
 ### 🌍 TravelDB
-Application web permettant de visualiser les pays visités sur une carte, avec une API sécurisée et authentification JWT.
+Application web permettant de visualiser les pays visités sur une carte.
 
 ➡️ Repo : [TravelDB](https://github.com/Fbrend23/TravelDB)
 
